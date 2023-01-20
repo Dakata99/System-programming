@@ -1,0 +1,19 @@
+total 100
+drwxrwxr-x 3 daniel daniel  4096 ное  5 21:32 .
+drwxrwxr-x 7 daniel daniel  4096 ное  3 21:18 ..
+-rw-rw-r-- 1 daniel daniel   140 ное  3 22:07 abc
+-rwxrwxr-x 1 daniel daniel 17400 ное  5 21:32 a.out
+-rw-rw-r-- 1 daniel daniel  1017 ное  3 21:42 kn.c
+-rw-r--r-- 1 daniel daniel     0 ное  5 21:32 ls.out
+-rw-rw-r-- 1 daniel daniel    33 ное  5 21:27 progress
+-rw-r--r-- 1 daniel daniel    85 ное  4 20:30 res
+-rw-rw-r-- 1 daniel daniel  1011 ное  3 22:00 task1.c
+-rw-rw-r-- 1 daniel daniel   872 ное  3 22:06 task2.c
+-rw-rw-r-- 1 daniel daniel   914 ное  4 20:30 task3.c
+-rw-rw-r-- 1 daniel daniel   940 ное  5 20:10 task4.c
+-rwxrwxr-x 1 daniel daniel 20480 ное  5 20:49 task5
+-rw-rw-r-- 1 daniel daniel  1140 ное  5 21:19 task5.c
+-rw-rw-r-- 1 daniel daniel  1309 ное  5 21:32 task6.c
+-rw-rw-r-- 1 daniel daniel    45 ное  4 20:29 tmp
+drwxrwxr-x 2 daniel daniel  4096 ное  5 20:47 .vscode
+-rw-rw-r-- 1 daniel daniel     3 ное  3 21:29 xx
